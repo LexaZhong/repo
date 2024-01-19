@@ -1,6 +1,6 @@
 # Portfolio
 My portfolio for Telling Stories with Data at CMU :)
-https://LexaZhong.github.io/repo1
+https://LexaZhong.github.io/repo
 
 # About me
 Hi! My name is Huiru (Lexa) Zhong. I am a CMU student pursuing my master degree in public policy and management - Data analytics. I really like playing around with colors and working on cool visualizations. My ideas are sometimes bizarre... but let's have fun! Looking forward to learning how to tell a good story with data with yall.
