@@ -15,6 +15,8 @@ Although the bars are showing the distribution of players height, they are too f
 **Thoughts**
 The polygons are working well to show the distribution. And it is easier to compare the difference in the three positions. I chose blues first according to the original visualization.
 
+
+
 # 2. Interviews
 ## Qing Lin (Mid 20s, student)
 1. Can you tell me what you think this is?
@@ -44,10 +46,13 @@ The polygons are working well to show the distribution. And it is easier to comp
 - The colors are too similar, it is hard to match the colors. I would choose more contrasting colors.
 - The title needs to be clearer.
 
+
+
 # Building Solutions
-<img width="525" alt="Final_solution" src="https://github.com/LexaZhong/repo/assets/156933041/406fa434-0584-45b8-b169-de4d16e295e8">
+<img width="835" alt="NCAA_D1_WBB_height" src="https://github.com/LexaZhong/repo/assets/156933041/8835ac15-b2c2-4555-98d1-68f3254d3fc6">
 
 ## Why I chose this visualization
+- The height data of NCAA D1 women's basketball players is a data-driven and delaring visualization. The purpose of the graph is to present the existing situation to the audience, so that they could get an overall idea of how tall you needs to be to play in D1. Therefore, I used the combination of Tableau and powerpoint to create the final visualization.
 - I chose the polygons to show the height distribution because it clearly display the volume and range at the same time. By putting the height in the y-axis, it is quite straightforward: taller players fall in the upper part of the graph. 
 - After interviewing my friends, I made changes to the colors, title, and added image into the graph.
     - First, I change the opacity to 80% to show that the polygons are overlapping each other. Then I change the blues into red and grey, which are the colors related to the US national team in order to match the images of the national players.
