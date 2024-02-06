@@ -38,4 +38,4 @@ data visualization in sports industry
 Redesigning the visualization on [MakeOverMonday](https://makeovermonday.co.uk/)
 - I chose the visualization of NCAA D1 basketball players' height
   > Derek Willis via Sports Data Analysis Visualization class: [Data Source](https://github.com/Sports-Roster-Data/womens-college-basketball)
-- [My solutions for this assignment] (repo/Assignment3&4.md)
+- [My solutions for this assignment] (repo/Assignment 3&4.md)
