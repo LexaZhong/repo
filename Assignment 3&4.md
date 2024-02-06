@@ -45,5 +45,11 @@ The polygons are working well to show the distribution. And it is easier to comp
 - The title needs to be clearer.
 
 # Building Solutions
+<img width="525" alt="Final_solution" src="https://github.com/LexaZhong/repo/assets/156933041/406fa434-0584-45b8-b169-de4d16e295e8">
 
-
+## Why I chose this visualization
+- I chose the polygons to show the height distribution because it clearly display the volume and range at the same time. By putting the height in the y-axis, it is quite straightforward: taller players fall in the upper part of the graph. 
+- After interviewing my friends, I made changes to the colors, title, and added image into the graph.
+    - First, I change the opacity to 80% to show that the polygons are overlapping each other. Then I change the blues into red and grey, which are the colors related to the US national team in order to match the images of the national players.
+    - For the title, I moved "Height Distribution" to the front. I found it took people some time to comprehend the graph the title does not say it is a distribution graph at the very beginning.
+    - By adding the U19 national players' images into the graph make it more vivid. They are all about the average of their corresponding positions instead of being extremely tall, conveying the message that as long as you fall in the average range of the height, it is possible to play in NCAA D1 or even better.
