@@ -11,7 +11,7 @@
   - One possible solution is to allow college athletes to receive compensation for their NIL (Name, Image, and Likeness). In the United States, college sports are rising in popularity, generating revenues of over $1 billion year after year. Despite this popularity, collegiate athletes have long been prohibited from receiving compensation for their name, image, and likeness (NIL). This rule, however, has been debated for decades. To answer this question, a series of recent court cases have begun to lean towards the student athletes. In addition, state legislatures were shaping the debates by legalizing NIL payments to players. Less than 12 hours before implementation of state laws designed to challenge the NCAA’s NIL rules, the NCAA updated its NIL policy, allowing collegiate athletes across the country to capitalize off their NIL.6 This policy change is widely viewed as one of the most significant changes in the Association’s 115-year history.
   - Despite the spread of NIL deals in its first few years, clear rules of the road have not been established. Each state has a different standard for compensation, healthcare, and revenue sharing, among other policy decisions that are getting wrapped into NIL policy, which has left athletes, universities, and conferences confused.  
 
-2) Identify my Call to Action
+2) **Identify my Call to Action**
   - Congress is playing a crucial role in setting up the rules for economic actions, it is really important to set up country-level standard for NIL deals.
 
 # 3. Sketches
