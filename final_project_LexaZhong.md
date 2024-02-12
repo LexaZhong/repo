@@ -1,5 +1,6 @@
 # Summary
-
+In order to equally provide financial supports to all college sports NCAA(National Collegiate Athletic Assiciation), EADA (Equity Athlete Data Analysis) requires colleges and universities to provide an annual report that documents if a school that receives federal money treats college athletes equally. However, profittable sports like football requires a far higher budget which might either violate 
+regulations on gender equality or faces a shortage in funds. This problem can be solved by legalizing NIL deals (Name, Image, and Likeness), turning student athletes into employees.
 
 
 # Project Structure
@@ -25,7 +26,7 @@ athletes across the country to capitalize off their NIL.6 This policy change is 
  other policy decisions that are getting wrapped into NIL policy, which has left athletes, universities, and conferences confused.  
 
 2. Identify my Call to Action
-congress is playing a crucial role in setting up the rules for economic actions, it is really important to set up country-level standard for NIL deals.
+- Congress is playing a crucial role in setting up the rules for economic actions, it is really important to set up country-level standard for NIL deals.
 
 # Sketches
 
