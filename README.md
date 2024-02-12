@@ -1,6 +1,8 @@
 # Portfolio
 My portfolio for Telling Stories with Data at CMU :)
 
+| [Assignment 1](/Assignment 1.md): OECD General Government Debt | [Assignment 3&4](/Assignment 3&4.md): Visualization of NCAA D1 basketball players' height | [Final Project](/final_project_LexaZhong.md): Compenstating the College Atheletes  
+
 # About me :ghost:
 Hi! My name is Huiru (Lexa) Zhong. I am a CMU student pursuing my master degree in public policy and management - Data analytics. I really like playing around with colors and working on cool visualizations. My ideas are sometimes bizarre... but let's have fun! Looking forward to learning how to tell a good story with data with yall.
 
@@ -28,3 +30,5 @@ Redesigning the visualization on [MakeOverMonday](https://makeovermonday.co.uk/)
 - I chose the visualization of NCAA D1 basketball players' height
   > Derek Willis via Sports Data Analysis Visualization class: [Data Source](https://github.com/Sports-Roster-Data/womens-college-basketball)
 - [My solutions for this assignment](/Assignment 3&4.md)
+
+## Final Project
