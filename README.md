@@ -1,7 +1,7 @@
 # Portfolio
 My portfolio for Telling Stories with Data at CMU :)
 
-| [Assignment 1: OECD General Government Debt](/Assignment 1.md)| [Assignment 3&4: Visualization of NCAA D1 basketball players' height ](/Assignment 3&4.md)| [Final Project: Compenstating the College Atheletes ](/final_project_LexaZhong.md)]  
+| [Assignment 1: OECD General Government Debt](/Assignment 1.md) | [Assignment 3&4: Visualization of NCAA D1 basketball players' height ](/Assignment 3&4.md) | [Final Project: Compenstating the College Atheletes ](/final_project_LexaZhong.md) |
 
 # About me :ghost:
 Hi! My name is Huiru (Lexa) Zhong. I am a CMU student pursuing my master degree in public policy and management - Data analytics. I really like playing around with colors and working on cool visualizations. My ideas are sometimes bizarre... but let's have fun! Looking forward to learning how to tell a good story with data with yall.
