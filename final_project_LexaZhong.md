@@ -1,5 +1,5 @@
 # 1. Summary
-- In order to equally provide financial supports to all college sports NCAA(National Collegiate Athletic Association), EADA (Equity Athlete Data Analysis) requires colleges and universities to provide an annual report that documents if a school that receives federal money treats college athletes equally. However, profittable sports like football requires a far higher budget which might either violate regulations on gender equality or faces a shortage in funds. This problem can be solved by legalizing NIL deals (Name, Image, and Likeness), turning student athletes into employees.
+In order to equally provide financial supports to all college sports NCAA(National Collegiate Athletic Association), EADA (Equity Athlete Data Analysis) requires colleges and universities to provide an annual report that documents if a school that receives federal money treats college athletes equally. However, profittable sports like football requires a far higher budget which might either violate regulations on gender equality or faces a shortage in funds. This problem can be solved by legalizing NIL deals (Name, Image, and Likeness), turning student athletes into employees.
 
 
 # 2. Project Structure
@@ -18,6 +18,7 @@
   - Congress is playing a crucial role in setting up the rules for economic actions, it is really important to set up country-level standard for NIL deals.
 
 ## 3) **Story Arc**
+![story_arc](https://github.com/LexaZhong/repo/assets/156933041/ffe09797-ede5-472d-8a5e-7e22982f74f6)
 
 
 # 3. Sketches
@@ -26,11 +27,13 @@
 # 4. data source
 ## 1) how to use the data
   - Use the EADA data to display the revenue of college sports across schools, gender, and schools.
-  - ...
+  - Other documents for reference
 
-## 2) A link to the publicly-accessible datasets or a copy of it in the github
+## 2) Links
   > [EADA Data Scource](https://surveys.ope.ed.gov/athletics/#/)
   > [NCAA revenue](https://www.espn.com/college-sports/story/_/id/33201991/ncaa-earns-115-billion-2021-revenue-returns-normal)
+  > [NIL Hearing](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1dth6e84htgma.cloudfront.net/IDC_NIL_Hearing_Memo_d1d85ebbbf.pdf?updated_at=2023-03-27T14:06:34.232Z)
+  > [Title IX VS football budgets](https://www.pressherald.com/2014/01/14/commentary__title_ix_hardly_to_blame_when_colleges_decide_to_slash_sports_teams_/)  
 
 # 5. Method and Medium
   - Tableau to build the visualization
