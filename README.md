@@ -1,7 +1,7 @@
 # Portfolio
 My portfolio for Telling Stories with Data at CMU :)
 
-| [Assignment 1](/Assignment 1.md) | [Week 3 In-class Exercise](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [Final Project](/final_project_part1.md) |
+| [Assignment 1](/Assignment 1.md) | [Week 3 In-class Exercise](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [Final Project: Part 1](/final_project_part1.md) |
 
 # 1. About me
 Hi! My name is Huiru (Lexa) Zhong. I am a CMU student pursuing my master degree in public policy and management - Data analytics. I really like playing around with colors and working on cool visualizations. My ideas are sometimes bizarre... but let's have fun! Looking forward to learning how to tell a good story with data with yall.
