@@ -16,7 +16,7 @@ Hi! My name is Huiru (Lexa) Zhong. I am a CMU student pursuing my master degree 
 ### my career plan
    - data visualization in sports industry
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 # 2. Portfolio
 ## 1) Assigment 1: General Government Debt
@@ -35,4 +35,3 @@ Redesigning the visualization on [MakeOverMonday](https://makeovermonday.co.uk/)
 ## 4) Final Project
 ### [Part 1](/final_project_part1.md)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
