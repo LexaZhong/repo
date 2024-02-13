@@ -19,18 +19,17 @@ Hi! My name is Huiru (Lexa) Zhong. I am a CMU student pursuing my master degree 
 
 
 # 2. Portfolio
-## 1) Assigment 1: General Government Debt
+## Assigment 1: General Government Debt
 Redesigning the visualization of OECD
-- [My solutions for this assigntment](/Assignment 1.md)
+> [My solutions for this assigntment](/Assignment 1.md)
 
-## 2) Week 3 in-class exercise
-- [My solutions for this exercise](/Week3_inclass.md)
+## Week 3 in-class exercise
+> [My solutions for this exercise](/Week3_inclass.md)
 
-## 3) Assignment 3&4
+## Assignment 3&4
 Redesigning the visualization on [MakeOverMonday](https://makeovermonday.co.uk/)
 - I chose the visualization of NCAA D1 basketball players' height
-  > Derek Willis via Sports Data Analysis Visualization class: [Data Source](https://github.com/Sports-Roster-Data/womens-college-basketball)
-- [My solutions for this assignment](/Assignment 3&4.md)
+- > [My solutions for this assignment](/Assignment 3&4.md)
 
 ## 4) Final Project
 ### [Part 1](/final_project_part1.md)
