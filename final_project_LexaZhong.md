@@ -1,4 +1,4 @@
-| [home page](/README.md) |[Assignment 1](/Assignment 1.md) | [visualizing debt](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [final project I](/final_project_part1.md) |
+| [home page](/README.md) | [Assignment 1](/Assignment 1.md) | [Visualizing debt](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [final project I](/final_project_part1.md) |
 
 # 1. Summary
 In order to equally provide financial supports to all college sports NCAA(National Collegiate Athletic Association), EADA (Equity Athlete Data Analysis) requires colleges and universities to provide an annual report that documents if a school that receives federal money treats college athletes equally. However, profittable sports like football requires a far higher budget, which conflicts with the equity in sports. This problem can be solved by legalizing NIL deals (Name, Image, and Likeness), turning student athletes into employees and letting them earn their own money.
