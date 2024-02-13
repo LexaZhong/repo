@@ -31,6 +31,6 @@ Redesigning the visualization on [MakeOverMonday](https://makeovermonday.co.uk/)
 - I chose the visualization of NCAA D1 basketball players' height
 - > [My solutions for this assignment](/Assignment 3&4.md)
 
-## 4) Final Project
-### [Part 1](/final_project_part1.md)
+## Final Project
+> [Part 1](/final_project_part1.md)
 
