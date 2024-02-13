@@ -8,10 +8,10 @@ Hi! My name is Huiru (Lexa) Zhong. I am a CMU student pursuing my master degree 
 
 ## 1) What I hope to learn
 ### from class
-   1. how to choose the right colors
-   2. I want to form my own style of data visualization
-   3. how to organize multiple graphs and charts to let the story flow
-   4. how different types of graphs work together
+   -  how to choose the right colors
+   -  I want to form my own style of data visualization
+   -  how to organize multiple graphs and charts to let the story flow
+   -  how different types of graphs work together
    
 ### my career plan
    - data visualization in sports industry
