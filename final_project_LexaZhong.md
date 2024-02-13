@@ -34,10 +34,10 @@ In order to equally provide financial supports to all college sports NCAA(Nation
 ## 2) Links
 | Name | URL | Description |
 |------|-----|-------------|
-|EADA |https://surveys.ope.ed.gov/athletics/#/|Equity Athlete Data Analysis|
-|NCAA revenue|https://www.espn.com/college-sports/story/_/id/33201991/ncaa-earns-115-billion-2021-revenue-returns-normal|ESPN article analyzing the increasing revenue in college sports|
-|NIL Hearing|chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1dth6e84htgma.cloudfront.net/IDC_NIL_Hearing_Memo_d1d85ebbbf.pdf?updated_at=2023-03-27T14:06:34.232Z|Energy & Commerce Hearing Entitled “Taking the Buzzer Beater to the Bank: Protecting College Athletes’ NIL Dealmaking Rights.” |
-|Football Budgets|https://www.pressherald.com/2014/01/14/commentary__title_ix_hardly_to_blame_when_colleges_decide_to_slash_sports_teams_/|Title IX vs Football increasing budgets|
+|EADA | https://surveys.ope.ed.gov/athletics/#/ | Equity Athlete Data Analysis|
+|NCAA revenue | https://www.espn.com/college-sports/story/_/id/33201991/ncaa-earns-115-billion-2021-revenue-returns-normal | ESPN article analyzing the increasing revenue in college sports|
+|NIL Hearing | https://d1dth6e84htgma.cloudfront.net/IDC_NIL_Hearing_Memo_d1d85ebbbf.pdf?updated_at=2023-03-27T14:06:34.232Z | Energy & Commerce Hearing Entitled “Taking the Buzzer Beater to the Bank: Protecting College Athletes’ NIL Dealmaking Rights.” |
+|Football Budgets | https://www.pressherald.com/2014/01/14/commentary__title_ix_hardly_to_blame_when_colleges_decide_to_slash_sports_teams_/ | Title IX vs Football increasing budgets|
 
 
 # 5. Method and Medium
