@@ -1,7 +1,7 @@
 | [home page](/README.md) |[Assignment 1](/Assignment 1.md) | [visualizing debt](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [final project I](/final_project_part1.md) |
 
 # 1. Summary
-In order to equally provide financial supports to all college sports NCAA(National Collegiate Athletic Association), EADA (Equity Athlete Data Analysis) requires colleges and universities to provide an annual report that documents if a school that receives federal money treats college athletes equally. However, profittable sports like football requires a far higher budget which might either violate regulations on gender equality or faces a shortage in funds. This problem can be solved by legalizing NIL deals (Name, Image, and Likeness), turning student athletes into employees.
+In order to equally provide financial supports to all college sports NCAA(National Collegiate Athletic Association), EADA (Equity Athlete Data Analysis) requires colleges and universities to provide an annual report that documents if a school that receives federal money treats college athletes equally. However, profittable sports like football requires a far higher budget, which conflicts with the equity in sports. This problem can be solved by legalizing NIL deals (Name, Image, and Likeness), turning student athletes into employees and letting them earn their own money.
 
 
 # 2. Project Structure
@@ -27,7 +27,7 @@ In order to equally provide financial supports to all college sports NCAA(Nation
 ![sketch](https://github.com/LexaZhong/repo/assets/156933041/cf890a67-0edc-4e7a-a599-4aaa8766e460)
 
 # 4. data source
-## 1) how to use the data
+## 1) How to use the data
   - The Equity in Athletics Data Analysis is conducted by the Office of Postsecondary Education of the U.S. Department of Education. This analysis cutting tool was designed to provide rapid customized reports for public inquiries relating to equity in athletics data. The data are drawn from the OPE Equity in Athletics Disclosure Website database. This database consists of athletics data that are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), via a Web-based data collection, by all co-educational postsecondary institutions that receive Title IV funding (i.e., those that participate in federal student aid programs) and that have an intercollegiate athletics program. I will use this data to display the revenue of college sports across schools, gender, and schools.
 
 
