@@ -26,10 +26,9 @@ Redesigning the visualization of OECD
 ## Week 3 in-class exercise
 > [My solutions for this exercise](/Week3_inclass.md)
 
-## Assignment 3&4
+## Assignment 3&4: NCAA D1 basketball players' height
 Redesigning the visualization on [MakeOverMonday](https://makeovermonday.co.uk/)
-- I chose the visualization of NCAA D1 basketball players' height
-- > [My solutions for this assignment](/Assignment 3&4.md)
+> [My solutions for this assignment](/Assignment 3&4.md)
 
 ## Final Project
 > [Part 1](/final_project_part1.md)
