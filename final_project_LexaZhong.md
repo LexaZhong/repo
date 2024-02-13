@@ -1,3 +1,5 @@
+| [home page](/README.md) |[Assignment 1](/Assignment 1.md) | [visualizing debt](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [final project I](/final_project_part1.md) |
+
 # 1. Summary
 In order to equally provide financial supports to all college sports NCAA(National Collegiate Athletic Association), EADA (Equity Athlete Data Analysis) requires colleges and universities to provide an annual report that documents if a school that receives federal money treats college athletes equally. However, profittable sports like football requires a far higher budget which might either violate regulations on gender equality or faces a shortage in funds. This problem can be solved by legalizing NIL deals (Name, Image, and Likeness), turning student athletes into employees.
 
@@ -26,14 +28,17 @@ In order to equally provide financial supports to all college sports NCAA(Nation
 
 # 4. data source
 ## 1) how to use the data
-  - Use the EADA data to display the revenue of college sports across schools, gender, and schools.
-  - Other documents for reference
+  - The Equity in Athletics Data Analysis is conducted by the Office of Postsecondary Education of the U.S. Department of Education. This analysis cutting tool was designed to provide rapid customized reports for public inquiries relating to equity in athletics data. The data are drawn from the OPE Equity in Athletics Disclosure Website database. This database consists of athletics data that are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), via a Web-based data collection, by all co-educational postsecondary institutions that receive Title IV funding (i.e., those that participate in federal student aid programs) and that have an intercollegiate athletics program. I will use this data to display the revenue of college sports across schools, gender, and schools.
+
 
 ## 2) Links
-  > [EADA Data Scource](https://surveys.ope.ed.gov/athletics/#/)
-  > [NCAA revenue](https://www.espn.com/college-sports/story/_/id/33201991/ncaa-earns-115-billion-2021-revenue-returns-normal)
-  > [NIL Hearing](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1dth6e84htgma.cloudfront.net/IDC_NIL_Hearing_Memo_d1d85ebbbf.pdf?updated_at=2023-03-27T14:06:34.232Z)
-  > [Title IX VS football budgets](https://www.pressherald.com/2014/01/14/commentary__title_ix_hardly_to_blame_when_colleges_decide_to_slash_sports_teams_/)  
+| Name | URL | Description |
+|------|-----|-------------|
+|EADA |https://surveys.ope.ed.gov/athletics/#/|Equity Athlete Data Analysis|
+|NCAA revenue|https://www.espn.com/college-sports/story/_/id/33201991/ncaa-earns-115-billion-2021-revenue-returns-normal|ESPN article analyzing the increasing revenue in college sports|
+|NIL Hearing|chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1dth6e84htgma.cloudfront.net/IDC_NIL_Hearing_Memo_d1d85ebbbf.pdf?updated_at=2023-03-27T14:06:34.232Z|Energy & Commerce Hearing Entitled “Taking the Buzzer Beater to the Bank: Protecting College Athletes’ NIL Dealmaking Rights.” |
+|Football Budgets|https://www.pressherald.com/2014/01/14/commentary__title_ix_hardly_to_blame_when_colleges_decide_to_slash_sports_teams_/|Title IX vs Football increasing budgets|
+
 
 # 5. Method and Medium
   - Tableau to build the visualization
