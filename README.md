@@ -33,6 +33,6 @@ Redesigning the visualization on [MakeOverMonday](https://makeovermonday.co.uk/)
 - [My solutions for this assignment](/Assignment 3&4.md)
 
 ## 4) Final Project
-
+### [Part 1](/final_project_part1.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
