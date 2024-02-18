@@ -41,5 +41,6 @@ In order to equally provide financial supports to all college sports NCAA(Nation
 
 
 # 5. Method and Medium
+  - Python to combine and process the data from EADA
   - Tableau to build the visualization
   - Shorthand to Build the Story
