@@ -46,4 +46,5 @@ In order to equally provide financial supports to all college sports NCAA(Nation
   - Shorthand to Build the Story
   - Canva
   - Data wrapper
+  - Raw Graph
   - where to get icons: [the noun project](https://thenounproject.com/search/icons/?q=football)
