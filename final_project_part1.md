@@ -44,3 +44,6 @@ In order to equally provide financial supports to all college sports NCAA(Nation
   - Python to combine and process the data from EADA
   - Tableau to build the visualization
   - Shorthand to Build the Story
+  - Canva
+  - Data wrapper
+  - where to get icons: [the noun project](https://thenounproject.com/search/icons/?q=football)
