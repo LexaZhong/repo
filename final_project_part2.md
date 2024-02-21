@@ -80,7 +80,7 @@ Interview 2:
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| How well does the fictional athlete's story help you understand how the logic and benefits of legalizing NIL Deals for college Athletes? | I think the 60s story needs a conclusion, otherwise the audience would feel a bit lost on the point of the story. |             |             |
+| How well does the fictional athlete's story help you understand how the logic and benefits of legalizing NIL Deals for college Athletes? | I think the 60s story needs a conclusion, otherwise the audience would feel a bit lost on the point of the story. | Is there any data visualization and data in the short story. Could you include the the income of the athlete? |             |
 | Do you like the style of the icons/ cartoons idea of the story?  | There are a lot of content on the website, you can highlight the most important part.  |             |             |
 |                         |                                |             |             |
 
