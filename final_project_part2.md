@@ -9,8 +9,8 @@
 
 # Wireframes / storyboards
 ## 1. Fictional athlete: Football player Bob (60s story)
-College Sports have been more and more popular recent years, especially the star players. So is it profitable to be an athlete?
-   - He joined the Sponge state college in 2020 and plays in the NCAA Division one. He is a very talented quarterback and brought victory to his team. He is the rising superstar and made for the box office. He generates millions of dollars for his college.
+College Sports have been more and more popular and lucrative in recent years. 
+   - He joined the Sponge state college in 2020 and plays in the NCAA Division one. He is a very talented brought victory to his team, generating millions of dollars for his college.
    - However, none of the revenue he generated goes to his own pocket. People would say, no way, he must have earned huge amount of money from commercials. But he did not. Because under the NCAA regulation, compensation for student athletes is limited to scholarships for their education. He is really annoyed and rushed to the Athlete director's office. But the AD says "Bob, do you know how much your coaching training cost? The revenue is deceiving, there is not much left after deducting all the expenses." "Oh, in addition to that, NCAA wants us to more equally distribute the funds, we probably need to cut the budget for football."
    - Poor Bob. What can he do? Luckily, in his second year in the team, in 2021, NIL deals are legalized in his state, which is considered one of the most significant changes in NCAA's history.. He signed deals with Nike, Gatorade and Benz, all are very lucrative partnerships.
 
