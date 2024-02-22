@@ -84,9 +84,7 @@ Interview 2
 - Know about NCAA or not: No
 
 Interview 3
-- Name: Jonathan Zhong
-- Age: 17
-- Know about NCAA or not: Yes
+(from in-class critque)
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
