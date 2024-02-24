@@ -1,4 +1,4 @@
-| [home page](https://lexazhong.github.io/repo)| [Assignment 1](/Assignment 1.md)  | [visualizing debt](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [final project I](/final_project_part1.md) | [final project II](final-project-part-two) |
+| [home page](https://lexazhong.github.io/repo)| [Assignment 1](/Assignment 1.md)  | [visualizing debt](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [final project I](/final_project_part1.md) | [final project II](/final_project_part2.md) |[final project III](/final_project_part3.md) |
 
 link to shorthand preview: [Legalizing NIL Deals for NCAA Athletes](https://preview.shorthand.com/avHC348diO1NjAuS)
 
