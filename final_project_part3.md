@@ -1,5 +1,5 @@
 
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://lexazhong.github.io/repo)| [Assignment 1](/Assignment 1.md)  | [visualizing debt](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [final project I](/final_project_part1.md) | [final project II](final_project_part2.md) |[final project III](final_project_part3.md) |
 
 # The final data story
 [Legalizing NIL Deals for NCAA student-athletes](Link)
