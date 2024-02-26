@@ -11,10 +11,13 @@
 |------------------------------------------|---------------------------------------------------------------------------------|
 | People like the story about bob, but it is not clear enough | Adding conclusion and background, also shorten the body part |
 | The ideas of the visualization worked well, but still need to modify some details | I will do this in the end, when I finish building my website and inserting all the background images, to make sure that the colors is consistent. |
-| NIL deals itself is straightforward, but I should provide more information for those who are interested in how it is legalized and how it works with state-level regulations. | Adding some explanations in the solution part, also add links to some articles that explain the logic more extensively.  |
+| NIL deals itself is straightforward, but I should provide more information for those who are interested in how it is legalized and how it works with state-level regulations. | NIL deal ranking: [On3 NIL 100](https://www.on3.com/nil/rankings/player/nil-100/)  | 
 | No data visualization in the 60s story | adding revenue charts and expenses of football into the first part |
 
-
+3. NIL deals
+- [Division I Council approves NIL disclosure and transparency rules(]https://www.ncaa.org/news/2024/1/10/media-center-division-i-council-approves-nil-disclosure-and-transparency-rules.aspx)
+- NIL deal ranking: [On3 NIL 100](https://www.on3.com/nil/rankings/player/nil-100/)
+   
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
