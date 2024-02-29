@@ -9,31 +9,29 @@
 
 | Changes                       | Details                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| People like the story about bob, but it is not clear enough | Adding conclusion and background, also shorten the body part |
+| People like the story about bob, but it is not clear enough | I gave up on the story of Bob since it seems a bit redundant for it is repeating the information.|
 | The ideas of the visualization worked well, but still need to modify some details | I will do this in the end, when I finish building my website and inserting all the background images, to make sure that the colors is consistent. |
-| NIL deals itself is straightforward, but I should provide more information for those who are interested in how it is legalized and how it works with state-level regulations. | NIL deal ranking: [On3 NIL 100](https://www.on3.com/nil/rankings/player/nil-100/)  | 
-| No data visualization in the 60s story | adding revenue charts and expenses of football into the first part |
+| NIL deals itself is straightforward, but I should provide more information for those who are interested in how it is legalized and how it works with state-level regulations. | I added in a walk-through of the important events in the history of NIL deals. Also included a link to a more detailed website about the NIL Deals|
+| No data visualization in the 60s story | Since I gave up the original framework of the story, I included visualizitions in the 60s story. |
 
-3. NIL deals
-- [Division I Council approves NIL disclosure and transparency rules(]https://www.ncaa.org/news/2024/1/10/media-center-division-i-council-approves-nil-disclosure-and-transparency-rules.aspx)
-- NIL deal ranking: [On3 NIL 100](https://www.on3.com/nil/rankings/player/nil-100/)
-   
+
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+The audience are people who are interested in sports. This website might more readable for people who have some background knowledge about NCAA. 
 
-Text here!
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+## Final design decisions 
 
-- color
-- templates
-- graph
-- style
+- **COLOR:** I chose blue to be the main color of the back ground, red and white for text and graphs. Blue stands for NCAA and red helps the important content to stand out. 
+- **TEMPLATES:** I referenced a lot of sample work and templates on shorthand to achieve my ideal results. At first, I was too distracted and overwhelmed by the cool effects and was a bit lost. At last, I chose the simplest templates to display the content.
+- **GRAPHS:** I struggled a lot on which tool to choose. Due to I have a relatively large dataset and rawgraph and datawrapper cannot handle it, I did the visualization on Tableau and Fourish. I like really like the animation available on Fourish.
+- **STYLE:** My final style is a bit like a modern poster, integrating some comic elements. I think the topic should be interesting and fun to learn about, so I picked the light mode, also added cute icons and images.
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+- NIL deal ranking: [On3 NIL 100](https://www.on3.com/nil/rankings/player/nil-100/)
+- [Division I Council approves NIL disclosure and transparency rules(]https://www.ncaa.org/news/2024/1/10/media-center-division-i-council-approves-nil-disclosure-and-transparency-rules.aspx)
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+- About Data: The basis of a good visualization is data. Manipulating, tranforming, summing and pivoting the data to make it work better with the visualization tools is a crucial step. For example, datawrapper cannot handle large dataset, so I have to manually filter and sum the data in advance. I took an exploratory data visualization course last semester, so I am able to picture what the data look like before visualization. And doing this project further improves my ability in interpreting and manipulating the data.
+- About Aesthetics: I sometimes, or always go to extremes on aesthetics, which can be fun but also time-consuming. I get to play around with lots of cool visualization tools, to explore lots of templates and to learn from other people's creative thoughts. But with all the powerful tool available, it took me some time to find which tool can help me achieve the visualization I have in mind.
+- About TSWD: This is a wonderful course. I learned a lot in this mini course. Shout out to Professor Goranson and Katelin!
