@@ -35,7 +35,6 @@ The audience are people who are interested in sports. This website might more re
 - Ed O'Bannon v. NCAA Lawsuit: [NCAA News](https://www.ncaa.org/news/2013/12/12/student-athlete-likeness-lawsuit-timeline.aspx)
 - UCLA the Fair play to pay: [Office of Governor](https://www.gov.ca.gov/2019/09/30/governor-newsom-signs-sb-206-taking-on-long-standing-power-imbalance-in-college-sports/)
 - Public hearing "Taking the Beat-buzzer": [energy & commerce house](ttps://energycommerce.house.gov/events/subcommittee-on-innovation-data-and-commerce-hearing-title-taking-the-buzzer-beater-to-the-bank-protecting-college-athletes-nil-dealmaking-rights)
-- [Division I Council approves NIL disclosure and transparency rules](https://www.ncaa.org/news/2024/1/10/media-center-division-i-council-approves-nil-disclosure-and-transparency-rules.aspx)
 
 
 # Final thoughts
