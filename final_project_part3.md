@@ -2,7 +2,7 @@
 | [home page](https://lexazhong.github.io/repo)| [Assignment 1](/Assignment 1.md)  | [visualizing debt](/Week3_inclass.md) | [Assignment 3&4](/Assignment 3&4.md) | [final project I](/final_project_part1.md) | [final project II](final_project_part2.md) |[final project III](final_project_part3.md) |
 
 # The final data story
-[Legalizing NIL Deals for NCAA student-athletes](Link)
+[Legalizing NIL Deals for NCAA student-athletes]([Link](https://carnegiemellon.shorthandstories.com/index.html))
 
 # Changes made since Part II
 # Identified changes for Part III
